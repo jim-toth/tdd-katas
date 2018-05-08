@@ -1,0 +1,25 @@
+{
+  "name": "tdd-katas",
+  "version": "1.0.0",
+  "description": "http://www.peterprovost.org/blog/2012/05/02/kata-the-only-way-to-learn-tdd/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jim-toth/tdd-katas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jim-toth/tdd-katas/issues"
+  },
+  "homepage": "https://github.com/jim-toth/tdd-katas#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.1.1",
+    "sinon": "^5.0.7",
+    "sinon-chai": "^3.0.0"
+  }
+}

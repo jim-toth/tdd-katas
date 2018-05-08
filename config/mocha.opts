@@ -1,0 +1,3 @@
+app
+--require ./config/common.js
+--recursive
